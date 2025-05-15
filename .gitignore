@@ -1,0 +1,18 @@
+# Dossiers de build
+bin/
+obj/
+
+# Fichiers spécifiques à l'IDE Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.cache
+*.resharper.user*
+
+# Fichiers de packages NuGet
+packages/
+*.nupkg
+
+# Fichiers temporaires de l'OS
+Thumbs.db
